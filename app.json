@@ -8,13 +8,14 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "",
+      "description": "Xj5igLLQ#EBoUYRANog7xVqUr5uRPSNi_NWnfDmJXuouP1PfHCuk",
       "required": true,
       "value": "private"
     },  
     
     "MONGODB": {
-      "description": "put the your mongodb database url",
+      "description": ""mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
+   ",
       "required": true,
       "value": "mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
     }
